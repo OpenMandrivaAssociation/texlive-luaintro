@@ -6,7 +6,7 @@
 # catalog-version 0.01
 Name:		texlive-luaintro
 Version:	0.01
-Release:	5
+Release:	6
 Summary:	Examples from the book "Einfuhrung in LuaTeX und LuaLaTeX"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/examples/luaintro
