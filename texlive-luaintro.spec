@@ -1,6 +1,6 @@
 Name:		texlive-luaintro
 Version:	0.03
-Release:	1
+Release:	2
 Summary:	Examples from the book "Einfuhrung in LuaTeX und LuaLaTeX"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/examples/luaintro
