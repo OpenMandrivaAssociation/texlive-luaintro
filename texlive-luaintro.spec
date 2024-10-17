@@ -3,7 +3,7 @@ Version:	35490
 Release:	2
 Summary:	Examples from the book "Einfuhrung in LuaTeX und LuaLaTeX"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/examples/luaintro
+URL:		https://www.ctan.org/tex-archive/info/examples/luaintro
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaintro.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaintro.doc.r%{version}.tar.xz
